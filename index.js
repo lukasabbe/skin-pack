@@ -12,8 +12,8 @@ async function main() {
     let trusted_spelare = await fs.readFileSync('./whitelist.json','utf-8')
     trusted_spelare = JSON.parse(trusted_spelare);
     let banned_spelare = []
-    if(fs.existsSync(`./bannedplayers.json`)){
-        banned_spelare = await fs.readFileSync('./bannedplayers.json','utf-8')
+    if(fs.existsSync(`./banned-players.json`)){
+        banned_spelare = await fs.readFileSync('./banned-players.json','utf-8')
         banned_spelare = JSON.parse(banned_spelare);
     }
     path = await make_pack()
