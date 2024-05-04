@@ -1,0 +1,6 @@
+whitelist.json
+banned-players.json
+bannedplayers.json
+package-lock.json
+/skin-pack
+/node_modules
