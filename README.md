@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # skin-pack
-=======
+
 # Info
 This generator is for generating a pack with player skins. They will be put on pumpkins and will be as big as a player on an item frame
 You get the pumpkin from setting a pumpkin name to the player you want it to represent.
@@ -19,4 +19,3 @@ This needs CIT, EMF and ETF
 
 # Exampels
 ![skins](/skins.png)
->>>>>>> 725b01f2a99b30814ca639e0c5f500c312f3663e
