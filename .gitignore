@@ -1,5 +1,9 @@
 whitelist.json
 banned-players.json
+<<<<<<< HEAD
+=======
+bannedplayers.json
+>>>>>>> 725b01f2a99b30814ca639e0c5f500c312f3663e
 package-lock.json
 /skin-pack
 /node_modules
